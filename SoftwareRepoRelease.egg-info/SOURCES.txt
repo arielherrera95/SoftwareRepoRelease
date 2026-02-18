@@ -1,0 +1,7 @@
+README.md
+setup.py
+SoftwareRepoRelease/__init__.py
+SoftwareRepoRelease.egg-info/PKG-INFO
+SoftwareRepoRelease.egg-info/SOURCES.txt
+SoftwareRepoRelease.egg-info/dependency_links.txt
+SoftwareRepoRelease.egg-info/top_level.txt
